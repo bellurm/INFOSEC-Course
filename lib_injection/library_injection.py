@@ -1,0 +1,3 @@
+import safeLibrary
+
+print("Helllo")
